@@ -12,6 +12,8 @@
 ####Atividade 4: Analise de dados sobre sorvete
 <img width="961" height="279" alt="image" src="https://github.com/user-attachments/assets/b12f6b07-c92c-4052-ba27-01bf8cb33408" />
 <img width="941" height="469" alt="image" src="https://github.com/user-attachments/assets/fe959b4c-961c-40a2-b0c9-b6e1beca87c9" />
+<img width="921" height="535" alt="image" src="https://github.com/user-attachments/assets/a283e380-e04c-47c9-adca-c7197b50a77a" />
+
 
 
 
