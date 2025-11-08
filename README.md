@@ -14,3 +14,10 @@
 <img width="941" height="469" alt="image" src="https://github.com/user-attachments/assets/fe959b4c-961c-40a2-b0c9-b6e1beca87c9" />
 <img width="921" height="535" alt="image" src="https://github.com/user-attachments/assets/a283e380-e04c-47c9-adca-c7197b50a77a" />
 <img width="940" height="427" alt="image" src="https://github.com/user-attachments/assets/c77e3e35-d8da-440f-be90-dbdaf43a6426" />
+
+#####Atividade 5: Regressão Linear
+<img width="920" height="434" alt="image" src="https://github.com/user-attachments/assets/2e736697-86cb-4e5a-89c9-7e7db47cd1aa" />
+<img width="959" height="781" alt="image" src="https://github.com/user-attachments/assets/a0a8ce25-3f2c-4bf3-8e77-1cda24870f3d" />
+<img width="764" height="119" alt="image" src="https://github.com/user-attachments/assets/9f6a8bad-706d-44ed-863e-62f5d3a4300f" />
+
+
