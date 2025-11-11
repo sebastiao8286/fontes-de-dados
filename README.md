@@ -25,7 +25,11 @@ Mapa Mental
 <img width="764" height="119" alt="image" src="https://github.com/user-attachments/assets/9f6a8bad-706d-44ed-863e-62f5d3a4300f" />
 
 ######Atividade 6: Valor FOB Estados
-<img width="744" height="423" alt="image" src="https://github.com/user-attachments/assets/a21ee03c-d796-4d94-a539-d120ca6a4247" />
+<img width="744" height="423" alt="image" src="https://github.com/user-attachments/assets/a21ee03c-d796-4d94-a539-d120ca6a4247" />4
+
+####### 7: Somases
+
+<img width="856" height="448" alt="image" src="https://github.com/user-attachments/assets/1aec090e-be25-4c1b-b175-255329308b08" />
 
 
 
