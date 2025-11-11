@@ -24,4 +24,8 @@ Mapa Mental
 <img width="959" height="781" alt="image" src="https://github.com/user-attachments/assets/a0a8ce25-3f2c-4bf3-8e77-1cda24870f3d" />
 <img width="764" height="119" alt="image" src="https://github.com/user-attachments/assets/9f6a8bad-706d-44ed-863e-62f5d3a4300f" />
 
+######Atividade 6: Valor FOB Estados
+<img width="744" height="423" alt="image" src="https://github.com/user-attachments/assets/a21ee03c-d796-4d94-a539-d120ca6a4247" />
+
+
 
