@@ -11,6 +11,7 @@ Mapa Mental
 ###Atividade 3: Dados Power PI
 <img width="1447" height="809" alt="image" src="https://github.com/user-attachments/assets/5a961c94-c718-41ed-b019-3e4085127dba" />
 <img width="1352" height="768" alt="image" src="https://github.com/user-attachments/assets/155724eb-f356-4544-af74-a5340318590d" />
+
 ####Atividade 4: Analise de dados sobre sorvete
 
 <img width="961" height="279" alt="image" src="https://github.com/user-attachments/assets/b12f6b07-c92c-4052-ba27-01bf8cb33408" />
