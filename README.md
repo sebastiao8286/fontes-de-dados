@@ -7,12 +7,13 @@ Mapa Mental
 ## Atividade 2: Analise de dados abertos
 
 <img width="1740" height="653" alt="image" src="https://github.com/user-attachments/assets/1e1c1ce8-690c-4870-8ff3-55194f175c09" />
-
-###Atividade 3: Análise de dados NCM
-<img width="1447" height="809" alt="image" src="https://github.com/user-attachments/assets/5a961c94-c718-41ed-b019-3e4085127dba" />
-<img width="1352" height="768" alt="image" src="https://github.com/user-attachments/assets/155724eb-f356-4544-af74-a5340318590d" />
 Análise de dados abertos usando o formato CSV e convertido para árquivo XLSX, para ánalise dos códigos NCM. Foi utlizados as fórmulas 
 =PROCV.
+
+###Atividade 3: Análise de dados Power BI
+<img width="1447" height="809" alt="image" src="https://github.com/user-attachments/assets/5a961c94-c718-41ed-b019-3e4085127dba" />
+<img width="1352" height="768" alt="image" src="https://github.com/user-attachments/assets/155724eb-f356-4544-af74-a5340318590d" />
+Criados gráficos de ánalise para analisar os dados de exportação do Comex Stat.
 
 ####Atividade 4: Analise de dados sobre sorvete
 
