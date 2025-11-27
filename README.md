@@ -11,6 +11,8 @@ Mapa Mental
 ###Atividade 3: Análise de dados NCM
 <img width="1447" height="809" alt="image" src="https://github.com/user-attachments/assets/5a961c94-c718-41ed-b019-3e4085127dba" />
 <img width="1352" height="768" alt="image" src="https://github.com/user-attachments/assets/155724eb-f356-4544-af74-a5340318590d" />
+Análise de dados abertos usando o formato CSV e convertido para árquivo XLSX, para ánalise dos códigos NCM. Foi utlizados as fórmulas 
+=PROCV.
 
 ####Atividade 4: Analise de dados sobre sorvete
 
