@@ -31,8 +31,11 @@ Criados gráficos de ánalise para analisar os dados de exportação do Comex St
 <img width="744" height="423" alt="image" src="https://github.com/user-attachments/assets/a21ee03c-d796-4d94-a539-d120ca6a4247" />4
 
 ####### 7: Somases
-
 <img width="856" height="448" alt="image" src="https://github.com/user-attachments/assets/1aec090e-be25-4c1b-b175-255329308b08" />
+
+######## 8: Prova de Informática
+<img width="1108" height="501" alt="image" src="https://github.com/user-attachments/assets/ccc091fb-20b2-4672-82fb-297e036c51b6" />
+
 
 
 
